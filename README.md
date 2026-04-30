@@ -28,35 +28,6 @@
 
 ---
 
-## 🛠️ Top Projects
-
-<details>
-<summary>📚<b>Libraries</b></summary>
-<br>
-
-| Repo | Language | Link |
-|------|----------|------|
-| [minmath](https://github.com/JodusMelodus/minmath) | ![](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=E43716) | [crates.io](https://crates.io/crates/minmath) |
-| [micro](https://github.com/JodusMelodus/micro) | ![](https://img.shields.io/badge/Rust-black?flat-square&logo=rust&logoColor=E43716) | [crates.io](https://crates.io/crates/micro) |
-| [what](https://github.com/JodusMelodus/what) | ![](https://img.shields.io/badge/C-00599C?flat-square&logo=c&logoColor=white) | Unofficially Published |
-| [vector](https://github.com/JodusMelodus/vector_2d_3d) | ![](https://img.shields.io/badge/Rust-black?flat-square&logo=rust&logoColor=E43716) | [crates.io](https://crates.io/crates/vector_2d_3d) |
-| [Phi-Modules](https://github.com/JodusMelodus/Phi-Modules) | `Phi` | Library for [Phi](https://github.com/JodusMelodus/Phi) |
-</details>
-
-<details>
-<summary>🖼️<b>Graphics</b></summary>
-<br>
-
-| Repo | Language | Description |
-|------|----------|-------------|
-| [rasterizer-c](https://github.com/JodusMelodus/rasterizer-c) | ![](https://img.shields.io/badge/C-00599C?flat-square&logo=c&logoColor=white) | Rasterizer |
-| [rasterizer-cpp](https://github.com/JodusMelodus/rasterizer-cpp) | ![](https://img.shields.io/badge/C%2B%2B-00599C?flat-square&logo=c%2B%2B&logoColor=white) | Rasterizer |
-| [rasterizer_Rust](https://github.com/JodusMelodus/rasterizer_rust) | ![](https://img.shields.io/badge/Rust-black?flat-square&logo=rust&logoColor=E43716) | Rasterizer |
-| [weak_perspective_projection](https://github.com/JodusMelodus/weak_perspective_projection) | ![](https://img.shields.io/badge/Python-3776AB?flat-square&logo=python&logoColor=white) | Weak Perspective Projection Demo |
-</details>
-
----
-
 ## 📊 Performance Metrics
 
 <p align="center">
