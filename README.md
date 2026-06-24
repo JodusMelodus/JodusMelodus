@@ -21,9 +21,7 @@
 
 ## 👨‍💻 About Me
 
-* 🌍 **Location:** Potchefstroom, South Africa
 * 🦀 **Focus:** Rust, C, and Low-Level Performance
-* 🎶 **Vibe:** Driven by music, fueled by tea (I'm sensitive to coffee)
 * 📚 **Studying:** Computer & Electronic Engineering
 
 ---
