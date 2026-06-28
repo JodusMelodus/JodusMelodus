@@ -14,7 +14,6 @@
 <p align="center">
   <a href="Journey.md"><img src="https://img.shields.io/badge/My%20Journey-Explore-E74C3C?style=for-the-badge&logo=adventureide"/></a>
   <a href="Resume.md"><img src="https://img.shields.io/badge/Resume-View-27AE60?style=for-the-badge&logo=googledocs"/></a>
-  <a href="https://github.com/JodusMelodus/Dev-Playbook"><img src="https://img.shields.io/badge/Dev%20Playbook-Open-3498DB?style=for-the-badge&logo=bookstack"/></a>
 </p>
 
 ---
