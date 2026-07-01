@@ -18,13 +18,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-* 🦀 **Focus:** Rust, C, and Low-Level Performance
-* 📚 **Studying:** Computer & Electronic Engineering
-
----
-
 ## 📊 Performance Metrics
 
 <p align="center">
