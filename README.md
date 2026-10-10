@@ -16,6 +16,12 @@
   <a href="Resume.md"><img src="https://img.shields.io/badge/Resume-View-27AE60?style=for-the-badge&logo=googledocs"/></a>
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/CGfAsZ9Ar">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Join my Discord server" />
+  </a>
+</p>
+
 ---
 
 ## 📊 Performance Metrics
