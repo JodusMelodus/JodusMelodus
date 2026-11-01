@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  Check out my VS Code extension for the 8051 microcontroller <a href="https://jodusmelodus-dev.github.io/AT89LP-Website/">here</a>
+</p>
+
+<p align="center">
   <a href="https://discord.gg/CGfAsZ9Ar">
     <img src="https://skillicons.dev/icons?i=discord" alt="Join my Discord server" />
   </a>
