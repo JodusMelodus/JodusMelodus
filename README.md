@@ -18,6 +18,8 @@
 
 <p align="center">
   Check out my VS Code extension for the 8051 microcontroller <a href="https://jodusmelodus-dev.github.io/AT89LP-Website/">here</a>
+  <br>
+  Most of my projects are stored in my <a href="https://github.com/JodusMelodus-dev">organization</a>
 </p>
 
 <p align="center">
