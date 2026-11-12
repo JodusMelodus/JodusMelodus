@@ -26,8 +26,6 @@
   </a>
 </p>
 
----
-
 ## 📊 Performance Metrics
 
 <p align="center">
